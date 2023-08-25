@@ -1,0 +1,35 @@
+body{
+    background-color: goldenrod;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+h2{color:white ;
+text-align: center; 
+}
+
+p{
+    color: white;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+   display: block;
+   margin: auto;
+   border:solid 3px;
+   border-color: black;
+   
+}
+#Listahorizontal{
+display: inline;
+margin-right: 100px;
+
+}
+ul{
+text-align: center;
+font-size: x-large;
+border: solid 3px;
+}
